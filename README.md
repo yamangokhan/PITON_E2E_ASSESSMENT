@@ -2,7 +2,7 @@
 Herkese Merhaba, 
 PITON TECHNOLOGY aracılığıyla gerçekleştirmiş olduğum bir test otomasyon hakkında gerekli tüm bilgiler aşağıda belirtilmiştir.
 
-<br/>
+
 <h3 align=“left”> 🔭 Testing website </h4>
 Test Environment: Two-way flight inquiry an Turkish Airlines website
 
