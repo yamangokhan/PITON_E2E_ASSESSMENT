@@ -1,5 +1,5 @@
 # PITON_E2E_ASSESSMENT
----
+___
 Herkese Merhaba, 
 PITON TECHNOLOGY aracılığıyla gerçekleştirmiş olduğum bir test otomasyon hakkında gerekli tüm bilgiler aşağıda belirtilmiştir.
 
@@ -12,7 +12,7 @@ Test Environment: Two-way flight inquiry an Turkish Airlines website
 Environment URL: https://www.turkishairlines.com/tr-int/
 
  <h3 align=“left”> ⚡ Languages and Tools used for this project </h4>
----
+___
  
  - Java
  
@@ -29,7 +29,7 @@ Environment URL: https://www.turkishairlines.com/tr-int/
  
 
 <h3 align="left"> 👨‍💻 NOTE </h3>
----
+___
 
 İlgili sitenin otomasyon aracılığıyla test edilmsine karşılık bir koruma duvarıyla karşılaşılmış olup konu ile ilgili açıklayıcı kısa bir video görselde eklenmiştir.
 Teşekkürler 
