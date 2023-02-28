@@ -10,8 +10,12 @@ Environment URL: https://www.turkishairlines.com/tr-int/
 
  <h3 align=“left”> ⚡ Used Tool </h4>
  - Java
+ 
  - Selenium Webdriver
+ 
  - Cucumber Framework
+
+
  - 
  
 
