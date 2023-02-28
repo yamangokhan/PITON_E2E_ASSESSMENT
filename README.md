@@ -27,3 +27,8 @@ Environment URL: https://www.turkishairlines.com/tr-int/
 
 ![thy-logo-](https://user-images.githubusercontent.com/101811316/221964251-1725a56c-7b68-4a53-a822-91826b506825.jpg)
 
+<h3 align="left"> 👨‍💻 NOTE </h3>
+
+İlgili sitenin otomasyon aracılığıyla test edilmsine karşılık bir koruma duvarıyla karşılaşılmış olup konu ile ilgili açıklayıcı kısa bir video görselde eklenmiştir.
+Teşekkürler 
+
