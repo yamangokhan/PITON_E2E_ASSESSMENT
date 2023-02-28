@@ -13,11 +13,15 @@ Environment URL: https://www.turkishairlines.com/tr-int/
  - Java
  
  - Selenium Webdriver
+
+ - Maven
  
  - Cucumber Framework
 
 
- - 
+ - Intellij IDE
+
+ - Git&GitHub
  
 
 
